@@ -1,4 +1,4 @@
 # MST_TG
-Minimum Spanning tree for Temporal Graph
+Minimum Spanning tree for Temporal Graphs
 
 Author: @kamilsa
